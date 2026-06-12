@@ -28,6 +28,20 @@
 
 <br>
 
+<h2>📂 Projetos</h2>
+
+<div>
+  <a href="https://academiaafroexpert.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐_Academia_Afro_Expert-Visitar_Projeto-0A66C2?style=for-the-badge">
+  </a>
+
+  <a href="https://acontece-em-vegas.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🎲_Acontece_em_Vegas-Visitar_Projeto-8A2BE2?style=for-the-badge">
+  </a>
+</div>
+
+<br>
+
 <h2>📫 Contato</h2>
 
 <div style="display: flex; align-items: center; justify-content: space-evenly;">
