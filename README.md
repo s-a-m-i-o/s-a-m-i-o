@@ -32,61 +32,37 @@
 
   <table>
     <tr>
-
       <td width="50%" valign="top" align="center">
-
         <h3>🌐 Academia Afro Expert</h3>
-
         <p align="center">
           Landing page para divulgação de serviços.
         </p>
-
         <a href="https://academiaafroexpert.netlify.app/" target="_blank" rel="noopener noreferrer">
-
           <img
             src="https://raw.githubusercontent.com/s-a-m-i-o/EstidioAmandaSouza/main/src/img/acadeimia-afro-print.jpg"
             alt="Academia Afro Expert" width="60%">
-
         </a>
-
         <br><br>
-
         <a href="https://academiaafroexpert.netlify.app/" target="_blank" rel="noopener noreferrer">
-
           <img src="https://img.shields.io/badge/Visitar_Projeto-8A2BE2?style=for-the-badge">
-
         </a>
-
       </td>
-
       <td width="50%" valign="top" align="center">
-
         <h3>🎲 Acontece em Vegas</h3>
-
         <p align="center">
           Site temático com foco em eventos e entretenimento.
         </p>
-
         <a href="https://acontece-em-vegas.netlify.app/" target="_blank" rel="noopener noreferrer">
-
           <img src="https://raw.githubusercontent.com/s-a-m-i-o/cardapio/main/src/img/vegas-print.jpg"
             alt="Acontece em Vegas" width="60%">
-
         </a>
-
         <br><br>
-
         <a href="https://acontece-em-vegas.netlify.app/" target="_blank" rel="noopener noreferrer">
-
           <img src="https://img.shields.io/badge/Visitar_Projeto-8A2BE2?style=for-the-badge">
-
         </a>
-
       </td>
-
     </tr>
   </table>
-
 
 <br>
 
