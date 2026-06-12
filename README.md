@@ -1,6 +1,6 @@
-<h1 align="center">🦇 Olá, eu sou Samio</h1>
+<h1>🦇 Olá, eu sou Samio</h1>
 
-<p align="center">
+<p>
   💻 Estudante de Análise e Desenvolvimento de Sistemas<br>
   📚 Atualmente estudando HTML, CSS, JavaScript, SQL e Git<br>
   🎯 Em busca da minha primeira oportunidade na área de tecnologia
@@ -8,7 +8,7 @@
 
 <br>
 
-<div align="center">
+<div>
   <a href="https://github.com/s-a-m-i-o">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s-a-m-i-o&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-a-m-i-o&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -17,9 +17,9 @@
 
 <br>
 
-<h2 align="center">🚀 Tecnologias</h2>
+<h2>🚀 Tecnologias</h2>
 
-<div align="center">
+<div>
   <img alt="HTML" height="40" width="50"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
@@ -33,9 +33,9 @@
 
 <br>
 
-<h2 align="center">📫 Contato</h2>
+<h2>📫 Contato</h2>
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/samio-a-azeredo/"
      target="_blank"
      rel="noopener noreferrer">
@@ -58,6 +58,6 @@
 
 <br>
 
-<p align="center">
+<p>
   <i>"Entre sombras e linhas de código, sigo transformando curiosidade em conhecimento."</i>
 </p>
