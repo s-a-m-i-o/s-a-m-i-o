@@ -40,7 +40,7 @@
         <a href="https://academiaafroexpert.netlify.app/" target="_blank" rel="noopener noreferrer">
           <img
             src="https://raw.githubusercontent.com/s-a-m-i-o/EstidioAmandaSouza/main/src/img/acadeimia-afro-print.jpg"
-            alt="Academia Afro Expert" width="60%">
+            alt="Academia Afro Expert" width="100%">
         </a>
         <br><br>
         <a href="https://academiaafroexpert.netlify.app/" target="_blank" rel="noopener noreferrer">
@@ -54,7 +54,7 @@
         </p>
         <a href="https://acontece-em-vegas.netlify.app/" target="_blank" rel="noopener noreferrer">
           <img src="https://raw.githubusercontent.com/s-a-m-i-o/cardapio/main/src/img/vegas-print.jpg"
-            alt="Acontece em Vegas" width="60%">
+            alt="Acontece em Vegas" width="100%">
         </a>
         <br><br>
         <a href="https://acontece-em-vegas.netlify.app/" target="_blank" rel="noopener noreferrer">
